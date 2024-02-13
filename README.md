@@ -11,6 +11,7 @@ Welcome to JKM Travel and Tours, where extraordinary journeys begin! We are dedi
 5. [Travel Tips](#travel-tips)
 6. [Testimonials](#testimonials)
 7. [Contact Us](#contact-us)
+8. [Screenshots](#screenshot)
 
 ## About Us
 
