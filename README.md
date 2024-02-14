@@ -41,5 +41,5 @@ Read firsthand accounts of our travelers on the [Testimonials](#testimonials) pa
 
 Have questions or need assistance? Connect with us through the [Contact Us](#contact-us) page. Find our contact information, including phone numbers and email addresses. Whether you have inquiries about specific tours or need travel advice, our team is here
 
-## Tours and Package
+## Screenshots
 
