@@ -43,4 +43,5 @@ Have questions or need assistance? Connect with us through the [Contact Us](#con
 
 ## Screenshots
 <p>Desktop View</p>
+<p>Smartphone View</p>
 
