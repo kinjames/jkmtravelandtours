@@ -1,6 +1,6 @@
 # JKM Travel and Tours
 
-Welcome to JKM Travel and Tours, where extraordinary journeys begin! We are dedicated to providing unparalleled travel experiences, combining adventure, comfort, and cultural enrichment. Explore the world with us and create memories that last a lifetime.
+Welcome to JKM Travel and Tours, where extraordinary journeys begin! We are dedicated to providing unparalleled travel experiences, combining adventure,comfort, and cultural enrichment. Explore the world with us and create memories that last a lifetime.
 
 ## Table of Contents
 
